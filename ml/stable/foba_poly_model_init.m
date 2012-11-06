@@ -24,7 +24,7 @@ raw_time = load(file_exectime);
 % 5
 % 15
 runtime = sum(raw_time, 2)/runs;
-%disp(runtime);
+%disp(runtime);      <-------------- note: the only uncertain thing in this file is the runtime format. I can make it run successfully, but cannot understand..
 % 3.333
 % 1.666
 % 5.000
