@@ -1,0 +1,8 @@
+# Created by Octave 3.2.4, Tue Nov 06 11:08:06 2012 EST <yjy@ubuntu>
+# name: var_data
+# type: matrix
+# rows: 3
+# columns: 3
+ 0 0 1
+ 0 1 0
+ 1 0 0
